@@ -1,5 +1,11 @@
-# ℜ𝔈𝔄𝔇𝔐𝔈.𝔪𝔡 👋 
-# 𝔅𝔒𝔄𝔖 𝔳𝔦𝔫𝔡𝔞𝔰 𝔞𝔬 𝔪𝔢𝔲 𝔣𝔢𝔯𝔣𝔦𝔩
-𝒎𝒆𝒖 𝒏𝒐𝒎𝒆 𝒆 𝒋𝒐𝒔𝒆 𝒄𝒂𝒓𝒅𝒆𝒏𝒂𝒔 💜
+# README.md 👋 
+# Boas vindas ao meu perfil 👋 
+# Meu nome e jose cardenas 💜
 - 𝒆𝒔𝒕𝒐𝒖 𝒆𝒔𝒕𝒖𝒅𝒂𝒏𝒅𝒐 𝒎𝒂 𝒂𝒍𝒖𝒓𝒂
 - 𝒆𝒔𝒕𝒐𝒖 𝒎𝒆 𝒅𝒆𝒔𝒆𝒏𝒗𝒐𝒍𝒗𝒆𝒏𝒅𝒐 𝒏𝒂 𝒍𝒊𝒏𝒈𝒖𝒂𝒈𝒆𝒎 𝒋𝒂𝒗𝒂𝒔𝒄𝒓𝒊𝒑𝒕
+
+
+
+
+
+![](https://media.tenor.com/qUIQazQGMQAAAAAi/emoticon.gif)
